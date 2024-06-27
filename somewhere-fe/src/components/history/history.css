@@ -1,0 +1,32 @@
+.history-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.history-list {
+  margin-top: 10px;
+}
+
+.history-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 16px;
+  border-bottom: 1px solid #ddd;
+}
+
+.timestamp {
+  color: #666;
+  font-size: 14px;
+}
+
+.price {
+  font-weight: bold;
+  font-size: 16px;
+}
+  

@@ -1,0 +1,27 @@
+/* Button styles */
+.button {
+    background-color: #4CAF50; /* Green background */
+    border: none; /* No border */
+    color: white; /* White text */
+    padding: 10px 20px; /* Padding */
+    text-align: center; /* Centered text */
+    text-decoration: none; /* No underline */
+    display: inline-block; /* Inline block display */
+    font-size: 16px; /* Font size */
+    margin: 4px 2px; /* Margin */
+    cursor: pointer; /* Cursor on hover */
+    border-radius: 4px; /* Rounded corners */
+  }
+  
+  .button:hover {
+    background-color: #45a049; /* Darker green on hover */
+  }
+  
+  /* Title styles */
+  .title {
+    font-size: 24px; /* Larger font size */
+    font-weight: bold; /* Bold text */
+    color: #333; /* Dark gray text */
+    margin-bottom: 20px; /* Bottom margin */
+  }
+  
